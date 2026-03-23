@@ -511,7 +511,7 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #233a5f; text
 .mobile-button { display: none; float: right; position: relative; background: transparent; cursor: pointer; margin-top: 8px; width: 26px; height: 16px; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
 .mobile-button:before,
 .mobile-button:after,
-.mobile-button span { background-color: #ffffff; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
+.mobile-button span { background-color: #233a5f; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
 .mobile-button:before,
 .mobile-button:after { content: ''; position: absolute; top: 0; height: 3px; width: 100%; left: 0; top: 50%; -webkit-transform-origin: 50% 50%; -ms-transform-origin: 50% 50%; transform-origin: 50% 50%; }
 .mobile-button span { position: absolute; width: 100%; height: 3px; left: 0; top: 50%; overflow: hidden; text-indent: 200%; }
